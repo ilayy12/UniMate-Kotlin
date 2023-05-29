@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81939996412",
+    "project_id": "unimate-e610c",
+    "storage_bucket": "unimate-e610c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81939996412:android:6d918bb4d094b280880179",
+        "android_client_info": {
+          "package_name": "com.example.unimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81939996412-6a6ar1qo9l3s8c67qd8fe2n553292b9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71nG2X0oWR90b_Y-n3A-DbK2bR47EMVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81939996412-6a6ar1qo9l3s8c67qd8fe2n553292b9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

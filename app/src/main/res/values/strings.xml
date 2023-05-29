@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">UniMate</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="login_failed">Giriş yapılamadı</string>
+    <string name="welcome">UniMate</string>
+    <string name="login">Giriş yap</string>
+    <string name="register">Üye Ol ve Katıl!</string>
+    <string name="registerNow">Katıl!</string>
+    <string name="emailgir">Email Giriniz</string>
+    <string name="passwordgir">Şifre Giriniz</string>
+    <string name="splashimg">splash</string>
+    <string name="mainHomeName">Ana Sayfa</string>
+    <string name="profilFragmentName">Profil</string>
+    <string name="searchFragmentName">Ara</string>
+    <string name="name">İsim</string>
+    <string name="lastName">Soy İsim</string>
+    <string name="startDate">Giriş Yılı</string>
+    <string name="finishDate">Mezuniyet Yılı</string>
+    <string name="profilimg">profilImg</string>
+    <string name="tire">-</string>
+    <string name="giris_yili">Giriş Yılı</string>
+    <string name="mezun_yili">Mezun Yılı</string>
+    <string name="logOutBtn">Çıkış Yap</string>
+    <string name="mezuniyet">Mezuniyet:</string>
+    <string name="bolum">Bölüm:</string>
+    <string name="fotoyukle">Fotoğraf Yükle</string>
+    <string name="fotoCek">Fotoğraf Çek</string>
+    <string name="registerbolum">Bölüm</string>
+    <string name="mezuniyet_derecesi_register">Mezuniyet Derecesi</string>
+
+    <string-array name="MezuniyetDerecesi">
+        <item>Lisans</item>
+        <item>Yüksek Lisans</item>
+        <item>Doktora</item>
+    </string-array>
+    <string-array name="Bolumler">
+        <item>Bilgisayar Müh.</item>
+        <item>Makine Müh.</item>
+        <item>KOM</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ilanTuruxml">İlan Türü: </string>
+    <string name="baslik">Başlık:</string>
+    <string name="ilanVeren">İlan Veren :  @</string>
+    <string name="yeni_ilan_ekle">Yeni İlan Ekle</string>
+    <string name="ilan_basligi">İlan Başlığı:</string>
+    <string name="ilan_aciklamasi">İlan Açıklaması:</string>
+    <string name="kampus_uzakligi">Kampüs Uzaklığı:</string>
+    <string name="km">Km</string>
+    <string name="ilani_paylas">İlanı Paylaş!</string>
+    <string name="kisi_sayisi">Kişi Sayısı : </string>
+    <string name="tabmapName">Map</string>
+    <string name="tabbarlayout">tabbarLayout</string>
+    <string name="regDurum">Durum:</string>
+    <string name="regMesafe">Mesafe :</string>
+    <string name="regKisiSayisi">Kişi Sayısı :</string>
+    <string name="register_telefon">telefon</string>
+    <string name="regSure">Sure :</string>
+
+    <string-array name="ilan_tur_listesi">
+        <item>Ev Aranıyor</item>
+        <item>Oda Aranıyor</item>
+        <item>Ev Arkadaşı Aranıyor</item>
+        <item>Oda Arkadaşı Aranıyor</item>
+        <item>Aramıyor</item>
+    </string-array>
+    <string name="title_activity_user_info">UserInfo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="eslesmeTalepBtnYazi">Eşleşme Talebi Gönder!</string>
+    <string name="arama_islemleri">Arama İşlemleri</string>
+    <string name="basvuran">"Basvuran "</string>
+
+</resources>
